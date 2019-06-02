@@ -1,80 +1,52 @@
-{"cursos":[
-    {
-      "course1.jpg": "course2.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Curso de cocina",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course3.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Gitarra para principiantes",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course4.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "El huerto en casa",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course5.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Decore con elementos reciclados",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course1.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Diseño web para principiantes",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course2.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Aprenda a cocinar comida mexicana",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course3.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Construya un estudio de música",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course4.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Cultive sus propias frutas y vegetales",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course5.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "Galletas caseras",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course1.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "JavaScript moderno",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    },
-    {
-      "course1.jpg": "course2.jpg",
-      "HTML5 CSS3 JavaScript para principiantes": "100 recetas naturales",
-      "Juan Mengano": "Juan Mengano",
-      "200€": "200€",
-      "12€": "12€"
-    }
-  ]
+{"temperaturas":[
+  {
+    "id": "GB-25-001", "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": -1.6, "temp_max": 10.5, "cielo": "Cubierto"},
+      {"fecha" : "2019-06-04", "temp_min": -3.0, "temp_max": 9.3, "cielo": "Cubierto"},
+      {"fecha" : "2019-06-06", "temp_min": -2.1, "temp_max": 11.7, "cielo": "Cubierto"}
+    ]
+  },
+  {
+    "id": "ES-45-001", "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": 1, "temp_max": 12.5, "cielo": "Nublado"},
+      {"fecha" : "2019-06-04", "temp_min": 2, "temp_max": 13.4, "cielo": "Nublado"},
+      {"fecha" : "2019-06-06", "temp_min": 1, "temp_max": 14.3, "cielo": "Nublado"}
+    ]
+  },
+  {
+    "id": "ES-01-001", "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": 1, "temp_max": 14.1, "cielo": "Soleado"},
+      {"fecha" : "2019-06-04", "temp_min": 2, "temp_max": 13.8, "cielo": "Soleado"},
+      {"fecha" : "2019-06-06", "temp_min": 1, "temp_max": 14.2, "cielo": "Soleado"}
+    ]
+  },
+  {
+    "id": "FR-28-001" , "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": 2.5, "temp_max": 8.9, "cielo": "Chubascos"},
+      {"fecha" : "2019-06-04", "temp_min": 2.6, "temp_max": 9.2, "cielo": "Chubascos"},
+      {"fecha" : "2019-06-06", "temp_min": 2.9, "temp_max": 9.6, "cielo": "Chubascos"}
+    ]
+  },
+  {
+    "id": "ES-46-001" , "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": 5, "temp_max": 19.5,  "cielo": "Soleado"},
+      {"fecha" : "2019-06-04", "temp_min": 7, "temp_max": 21.4,  "cielo": "Soleado"},
+      {"fecha" : "2019-06-06", "temp_min": 6, "temp_max": 19.1,  "cielo": "Soleado"}
+    ]
+  },
+  {
+    "id": "EU-55-008" , "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": 3.2, "temp_max": 9.8, "cielo": "Tormentas"},
+      {"fecha" : "2019-06-04", "temp_min": 3.5, "temp_max": 9.8, "cielo": "Tormentas"},
+      {"fecha" : "2019-06-06", "temp_min": 3.9, "temp_max": 9.8, "cielo": "Tormentas"}
+    ]
+  },
+  {
+    "id": "ES-28-001" , "temps" : [
+      {"fecha" : "2019-06-03", "temp_min": 3.2, "temp_max": 9.8, "cielo": "Tormentas"},
+      {"fecha" : "2019-06-04", "temp_min": 3.5, "temp_max": 9.8, "cielo": "Tormentas"},
+      {"fecha" : "2019-06-06", "temp_min": 3.9, "temp_max": 9.8, "cielo": "Tormentas"}
+    ]
+  }              
+]
 }
